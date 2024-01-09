@@ -1,0 +1,3 @@
+ssid = 'YOUR_NETWORK_NAME'
+password = 'YOUR_PASSWORD_TO_SSID'
+blynk = 'YOUR_BLYNK_AUTH_TOKEN'
